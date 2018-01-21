@@ -1,8 +1,8 @@
 #使用方式
 compile 'com.sonnyjack.widget:RoundProgressView:0.1.0'
 
-![image](https://github.com/linqssonny/RoundProgressView/blob/master/device-2017-11-08-203638.png)
+![image](./blob/master/device-2017-11-08-203638.png){:height="30%" width="30%"}
 
-![image](https://github.com/linqssonny/RoundProgressView/blob/master/device-2017-11-08-204012.png)
+![image](./blob/master/device-2017-11-08-204012.png){:height="30%" width="30%"}
 
-![image](https://github.com/linqssonny/RoundProgressView/blob/master/device-2017-11-08-204246.png)
+![image](./blob/master/device-2017-11-08-204246.png){:height="30%" width="30%"}
